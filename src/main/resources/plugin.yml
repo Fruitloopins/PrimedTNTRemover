@@ -1,0 +1,6 @@
+name: PrimedTNTRemover
+version: "${project.version}"
+main: com.fwloopins.primedtntremover.PrimedTNTRemover
+api-version: "1.19"
+description: Prevent TNT from being lit
+author: Fruitloopins
