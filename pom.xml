@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.fwloopins</groupId>
-  <artifactId>PrimedTNTRemover</artifactId>
+  <artifactId>ExplosionRemover</artifactId>
   <version>0.1.0</version>
   <packaging>jar</packaging>
 
-  <name>PrimedTNTRemover</name>
+  <name>ExplosionRemover</name>
 
   <properties>
     <java.version>17</java.version>

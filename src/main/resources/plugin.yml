@@ -1,6 +1,6 @@
-name: PrimedTNTRemover
+name: ExplosionRemover
 version: "${project.version}"
-main: com.fwloopins.primedtntremover.PrimedTNTRemover
+main: com.fwloopins.explosionremover.ExplosionRemover
 api-version: "1.19"
 description: Prevent TNT from being lit
 author: Fruitloopins
