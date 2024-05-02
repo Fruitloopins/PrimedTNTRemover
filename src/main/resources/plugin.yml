@@ -2,5 +2,5 @@ name: ExplosionRemover
 version: "${project.version}"
 main: com.fwloopins.explosionremover.ExplosionRemover
 api-version: "1.19"
-description: Prevent TNT from being lit
+description: Cancel all explosions
 author: Fruitloopins
